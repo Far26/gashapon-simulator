@@ -11,10 +11,10 @@ Twist Gacha knob<br>
 Random Gacha item appears<br>
 
 <h3>Hope to add, if my brain does not fail me.</h3>
-Multiple machines
-Storing the items you have acquired
-Animations
-Machines that give different random things from the internet(pictures/wiki articles/ etc)
+Multiple machines<br>
+Storing the items you have acquired<br>
+Animations<br>
+Machines that give different random things from the internet(pictures/wiki articles/ etc)<br>
 and other things I cant think of rigth now.
 
 
